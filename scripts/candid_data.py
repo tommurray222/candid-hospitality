@@ -1,29 +1,27 @@
 import pandas as pd
 import candid_cleaning as cl
 
-# Read unclean data
-users_raw = pd.read_csv("C:\\Users\\tommu\\Downloads\\New folder\\Candid Hospitality\\augmenting data cleaning\\users.csv")
-matches_raw = pd.read_csv("C:\\Users\\tommu\\Downloads\\New folder\\Candid Hospitality\\augmenting data cleaning\\wppp_matches (3).csv")
-chats_raw = pd.read_csv("C:\\Users\\tommu\\Downloads\\New folder\\Candid Hospitality\\augmenting data cleaning\\wppp_chats (13).csv")
+# Read raw data
+users_raw = pd.read_csv("data/users_snippet.csv")
+matches_raw = pd.read_csv("data/matches_snippet.csv")
+chats_raw = pd.read_csv("data/chats_snippet.csv")
 
 # Split off bios for sentiment analysis 
 bios_raw = users_raw[["user_id", "culture_text"]].copy()
 
-# List of test bios for removal
-test_accounts = [21,18,31,39,43,44,94,104,114,115,113,391,440,507,
-                 578,579,591,605,607,654,808,1532,3991,4387,4116,
-                 4117,4118,4327,4328,4329,4460,4462,4463,711,2613,5331,5685]
+# List of test account id's for removal
+test_accounts = [808]
 
-# Apply formulas to user data
+# Apply formulas to clean and prepare user data
 users_raw["dob"] = users_raw["dob"].apply(cl.clean_dobs)
 users_raw[["risk","extroversion","patience","norms"]] = users_raw["culture_code"].apply(cl.split_cc)
 users_raw["age"] = cl.dob_to_age(users_raw["dob"])
 users_raw = cl.remove_accounts(users_raw, test_accounts, id_col = "user_id")
 
-# Apply formulas to chats
+# Apply formula to calculate chat stats
 chat_summary = cl.chat_stats(chats_raw, time_unit="m")
 
-# Apply formulas to carry out sentiment analysis
+# Apply formulas to carry out sentiment analysis on user written bios
 sentiment_scores = bios_raw["culture_text"].apply(cl.bio_sentiment_analysis)
 sentiment_df = pd.json_normalize(sentiment_scores)
 bios_raw = pd.concat([bios_raw, sentiment_df], axis=1)
@@ -56,4 +54,5 @@ subset_cols = ["job_id" , "user_id" , "score_overall" , "score_department" , "sc
 # Create smaller more usable dataframe, rename columns for clarity
 candid_data = full_data[subset_cols].copy()
 candid_data = candid_data.rename(columns={ "neg":"bio_sentiment_neg" , "pos":"bio_sentiment_pos" , "compound":"bio_sentiment_compound"})
+
 
