@@ -1,6 +1,6 @@
 # candid-hospitality
 Collection of python code and data set snippets used during my data internship at **Candid Hospitality**, an anonymous matchmaking service for hospitality careers.
-The focus of this project was cleaning and preparing the data for analysis, before moving on to prediction.
+The focus of this project was cleaning and preparing the data for analysis, before moving on to prediction (still in progress).
 
 ## Scripts
 
