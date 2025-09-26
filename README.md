@@ -13,6 +13,12 @@ The focus of this project was cleaning and preparing the data for analysis, befo
 - **eda_functions** Collection of useful functions for exploratory data anslysis (eda).<br>
   Dependencies: seaborn, matplotlib.pyplot, numpy as np, scipy stats
 
+- **eda_example_uses** Example for each of the eda functions. <br>
+  Dependencies: pandas, eda_functions
+
+**Important:** File run order **candid_cleaning** -> **candid_data** -> **eda_functions** -> **eda_example_uses** <br>
+  This ensures all functions and test data are available.
+
 
 ## Datasets
 
