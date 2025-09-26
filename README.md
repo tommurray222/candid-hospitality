@@ -2,15 +2,15 @@
 Collection of python code and data set snippets used during my data internship at **Candid Hospitality**, an anonymous matchmaking service for hospitality careers.
 The focus of this project was cleaning and preparing the data for analysis, before moving on to prediction.
 
-##Scripts
+## Scripts
 
 - **candid_cleaning** is a collection of functions used to correct errors in the data, and fix any formatting issues the data has when importing.
-####Dependencies: pandas, numpy, nltk.sentiment
+#### Dependencies: pandas, numpy, nltk.sentiment
 
 - **candid_data** Script for loading, transforming and preparing the (test) data for analysis.
-####Dependencies: pandas, candid_cleaning (must run this script first to load functions)
+#### Dependencies: pandas, candid_cleaning (must run this script first to load functions)
 
-##Datasets
+## Datasets
 
 **Due to the personal nature of the data, all datasets have been anonymised and have had all indicators removed**
 **For this reason all birthdates have been moved to XXXX-01-01, presrving only the birth year for age analysis**
