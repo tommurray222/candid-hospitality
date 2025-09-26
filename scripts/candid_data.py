@@ -55,4 +55,7 @@ subset_cols = ["job_id" , "user_id" , "score_overall" , "score_department" , "sc
 candid_data = full_data[subset_cols].copy()
 candid_data = candid_data.rename(columns={ "neg":"bio_sentiment_neg" , "pos":"bio_sentiment_pos" , "compound":"bio_sentiment_compound"})
 
+candid_data.to_csv("data/cleaned_candid_data.csv", index=False)
+
+
 
