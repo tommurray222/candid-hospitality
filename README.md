@@ -4,11 +4,15 @@ The focus of this project was cleaning and preparing the data for analysis, befo
 
 ## Scripts
 
-- **candid_cleaning** is a collection of functions used to correct errors in the data, and fix any formatting issues the data has when importing.
-#### Dependencies: pandas, numpy, nltk.sentiment
+- **candid_cleaning** Collection of functions used to correct errors in the data, and fix any formatting issues the data has when importing.
+  Dependencies: pandas, numpy, nltk.sentiment SentimentIntensityAnalyzer
 
 - **candid_data** Script for loading, transforming and preparing the (test) data for analysis.
-#### Dependencies: pandas, candid_cleaning (must run this script first to load functions)
+  Dependencies: pandas, candid_cleaning (must run this script first to load functions)
+
+-**eda_functions** Collection of useful functions for exploratory data anslysis (eda). 
+  Dependencies: seaborn, matplotlib.pyplot, numpy as np, scipy stats
+
 
 ## Datasets
 
