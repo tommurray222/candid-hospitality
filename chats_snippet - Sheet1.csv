@@ -1,0 +1,202 @@
+id,match_id,sender,message,seen,notified,revealed,timestamp
+6,349,candidate,Hello,1,0,0,2025-02-12 18:26:09
+7,349,company,Hi,1,0,0,2025-02-12 18:26:17
+8,349,candidate,"Please ignore, this is Candid doing some final testing.",1,0,0,2025-02-12 18:26:20
+9,349,company,Who are you?,1,0,0,2025-02-12 18:26:21
+10,349,candidate,I\'m going to reveal who I am.,1,0,0,2025-02-12 18:26:26
+11,349,company,Please reveal yoursel,1,0,0,2025-02-12 18:26:28
+12,349,candidate,"I've just revealed who I am in the Room, I am * , a * at * .",1,0,1,2025-02-12 18:26:32
+13,349,company,"You have been progressed to the next stage, this room will automatically close in 30 days time - in the mean time, we will be in touch directly",1,0,0,2025-02-12 18:26:40
+20,144,candidate,Hello,1,1,0,2025-02-12 21:06:14
+21,362,candidate,"I've just revealed who I am in the Room, I am * , a * at .",1,1,1,2025-02-12 22:13:26
+22,362,company,"You have been progressed to the next stage, this room will automatically close in 30 days time - in the mean time, we will be in touch directly",1,1,0,2025-02-12 23:14:51
+23,144,candidate,I would love the opportunity to discuss this job role and feel I have the experience and knowledge to be a great asset to the brand,1,1,0,2025-02-13 08:40:38
+25,144,company,Hello and thank you for getting in touch! Could you please let us know a bit more about your experience as an * ?,1,0,0,2025-02-14 14:05:05
+26,144,company,"The role we are recruiting for is a traditional * role. The current area has * restaurants, one of them being out of *. The other two * are sharing the other *.",1,0,0,2025-02-14 14:07:07
+27,144,company,Please feel free to ask any question to find out more about us.,1,0,0,2025-02-14 14:07:37
+31,144,candidate,"I was a multisite * with * including *of the busiest sites in the company. I was responsible for all * locations * and * recruitment, training and",1,1,0,2025-02-14 15:03:28
+32,144,candidate,"Development. I’m a big believer in people and building great teams, and developing talent from with in. My small area sales varied between £*and £$ plus… NPS for my unit was *s with over",1,1,0,2025-02-14 15:05:08
+33,144,candidate,* reviews. I have worked in * and * most of my life *+ yrs. was a * for * prior to moving to * was,1,1,0,2025-02-14 15:06:05
+62,357,candidate,Hello,1,0,0,2025-02-27 10:37:01
+63,357,company,Hello,1,0,0,2025-02-27 10:40:51
+64,357,candidate,"I've just revealed who I am in the Room, I am *, a * at *.",1,0,1,2025-02-27 10:46:57
+65,357,company,"You have been progressed to the next stage, this room will automatically close in 30 days time - in the mean time, we will be in touch directly",1,0,0,2025-02-27 10:47:24
+71,272,company,Hello :),1,1,0,2025-03-05 09:44:29
+72,272,company,Is there anything specific that you\'d like to know about the role or about *?,1,1,0,2025-03-05 13:59:24
+73,272,candidate,Hi! I can see some detail in the JD but just interested to know more about the set up of the * . Is there other internal roles in the team as well as the * ?,1,1,0,2025-03-05 16:58:12
+74,272,candidate,Would be great to understand the job type and the split between working from home / working in the office & travelling to sites too 😊,1,1,0,2025-03-05 16:59:28
+75,272,candidate,Last question in the immediate is which of the brands this role covers? Thank you!,1,1,0,2025-03-05 17:00:43
+76,272,company,"Great. The role is to join * , which comprises the brands *,...,*.",1,1,0,2025-03-06 07:55:20
+77,272,company,our support centre roles are hybrid. The rest of the time is your to plan either home or restaurants,1,1,0,2025-03-06 07:55:55
+78,272,company,"The team set up is: *, *, *, * and *",1,1,0,2025-03-06 07:58:03
+79,272,company,"Please do let me know if you have any other questions, or if you\'re happy to proceed it would be great to understand your experience",1,1,0,2025-03-06 07:58:46
+92,272,company,"Hiya, do you have any other questions? We\'re shortlisting applications over the next day or two. Thanks *",1,1,0,2025-03-10 17:10:27
+96,272,candidate,"Hi *, apologies for the delay in response I’ve been on holiday.",1,1,0,2025-03-10 20:02:21
+97,272,candidate,"No other questions in the immediate, would love to chat more. In my current role I work for *, I’ve been there coming up to *.",1,1,0,2025-03-10 20:03:16
+98,272,candidate,"Prior to this my experience in * goes across some different industries, *, .. , * !",1,1,0,2025-03-10 20:03:49
+99,272,candidate,I’ll tap reveal myself and let me know if there’s any questions or details you’d like from me!,1,1,0,2025-03-10 20:04:14
+100,272,candidate,"I've just revealed who I am in the Room, I am *, a * at * .",1,1,1,2025-03-10 20:04:16
+104,272,company,"You have been progressed to the next stage, this room will automatically close in 30 days time - in the mean time, we will be in touch directly",1,1,0,2025-03-11 14:11:01
+158,12671,candidate,"I've just revealed who I am in the Room, I am *, a *  at *.",1,0,1,2025-03-17 20:53:53
+159,12673,company,"Hey Broccoli,",1,0,0,2025-03-18 15:38:52
+160,12673,company,How are you? Great to see you connected with us. Where about are you working currently?,1,0,0,2025-03-18 15:39:46
+161,134,company,Good afternoon!,1,0,0,2025-03-18 16:30:37
+162,134,company,Super excited to see you are one of our first matches on the platform and I\'d really love to arrange an initial chat on teams if you\'d be happy to? ☺️,1,0,0,2025-03-18 16:31:07
+171,12666,company,"Thanks for matching with our * position in *, It would be great to discuss this opportunity with you. Did you have any questions for us we can answer at this stage?",1,0,0,2025-03-19 11:11:02
+183,12666,candidate,"Not really. I am available for an interview (phone or in person) most days at the moment, and would love to discuss the role in depth at any convenient opportunity",1,0,0,2025-03-20 09:31:45
+184,12666,candidate,"I've just revealed who I am in the Room, I am *, a * at *.",1,0,1,2025-03-20 09:31:50
+191,12666,company,"Great, Thanks for coming back to me *! Lets work on getting a call in early next week?",1,0,0,2025-03-20 13:02:14
+192,12666,company,Do you have time free on Monday at all? And can you share with me a number to reach you on?,1,0,0,2025-03-20 13:03:37
+206,12733,candidate,"I've just revealed who I am in the Room, I am *, a * at *.",1,1,1,2025-03-22 19:52:07
+212,12718,company,"Hello, thank you for your interest in the * role. I hope you\'re well?",1,0,0,2025-03-24 10:53:12
+213,12718,company,"Could you tell me a little bit about yourself and your experience, please?",1,0,0,2025-03-24 10:53:32
+215,12718,candidate,I am studying * at the * and i have previously worked as an operations manager at a restaurant in *,1,0,0,2025-03-24 11:57:48
+244,12793,candidate,Hi there. Thanks so much for the match. I would love to hear a little more about the role as I think I would be a perfect fit! I\'m so passionate about hospitality and would love to get involved!,1,0,0,2025-03-26 17:19:40
+245,12793,company,Hello! Lovely to be connected Apple Cinnamon Waffles (very strong choice of Candid Handle),1,0,0,2025-03-26 17:44:08
+246,12793,company,"You are our very first match, ever! It\'s very exciting. Do you already know a little bit about what we do as a business, or is this your first time coming across *?",1,0,0,2025-03-26 17:46:04
+247,12793,company,"If so, I can share more details on our background, and details on how we see this role being super important to our growth over the coming year. We can speak tomorrow though for sure - no rush at all!",1,0,0,2025-03-26 17:52:51
+248,12793,company,😁,1,0,0,2025-03-26 17:52:57
+249,12793,candidate,Ohh my goodness I can\'t believe I\'m your very first match! That\'s extremely exciting and I feel rather honoured haha.,1,0,0,2025-03-26 19:46:21
+250,12793,candidate,"Yes, I\'ve been following your journey on * for a few weeks now and was so excited by the concept, so having the opportunity to get involved would be amazing!",1,0,0,2025-03-26 19:47:31
+251,12793,candidate,Yes please....I\'d love to know a little more about the role and the importance of the role as the company progresses....really look forward to speaking further 😁,1,0,0,2025-03-26 19:49:28
+252,12793,company,"So, in a nutshell A) * B)*,",1,0,0,2025-03-26 20:48:32
+253,12793,company,but we have a real knowledge gap when it comes to \'*\' - the actual sourcing of the candidates. We feel very lucky to be approaching * already but...,1,0,0,2025-03-26 20:49:17
+254,12793,company,"that\'s not even the tip of the iceberg of the total number of people in salaried roles across *. We need to find someone who lives and breathes *....,",1,0,0,2025-03-26 20:50:09
+255,12793,company,...* and basically brainstorming ways to * and get in front of the right people. Listen to their feedback and continuously improve the platform.,1,0,0,2025-03-26 20:50:48
+256,12793,company,"If you have experience in any of these area, or feel like it\'s something up your street. Then we would love to arrange a proper chat.",1,0,0,2025-03-26 20:51:19
+257,12794,candidate,"Hi guys, I\'m over the moon with this match and excited to be in my first ever room!",1,0,0,2025-03-26 22:24:28
+258,12794,candidate,I\'d really love to be part of the fascinating * story and can\'t wait to tell you why I\'d be your perfect *.,1,0,0,2025-03-26 22:24:47
+259,12793,candidate,"Wow, that sounds so exciting! My experience started when I was *, as a * and worked my way up to *. I then made the jump into *...",1,0,0,2025-03-27 09:08:06
+260,12793,candidate,"Before going back into *as an *and then * of *. I\'m now working for * as their *, looking after all things * & *...",1,0,0,2025-03-27 09:09:00
+261,12793,candidate,So I really do live and breath * haha. Specific * experience for me has been mainly during my time in * and also as a * having to source candidates...,1,0,0,2025-03-27 09:10:16
+262,12793,candidate,"But my main skill and what I\'m best at, is * across the hospitality industry, in hope of making a positive difference!",1,0,0,2025-03-27 09:11:16
+263,12793,candidate,"If you feel my experience would be a good fit for the growth/expansion of the company, I would definitely love to have a proper chat for sure :)",1,0,0,2025-03-27 09:12:00
+264,12794,company,"Hello Sweet Potato Gnocchi! Please tell us why you\'d be our perfect *, we\'re all ears!",1,0,0,2025-03-27 10:03:28
+266,12793,candidate,"I've just revealed who I am in the Room, I am *, a * at *.",1,0,1,2025-03-27 12:29:02
+267,12793,company,Hey *!,1,0,0,2025-03-27 12:38:43
+268,12793,company,"It\'s * here, I thought it might be yourself - after the * message. I\'m glad it is - didn\'t want to ask outright just in case.",1,0,0,2025-03-27 12:39:26
+269,12793,company,"I love that you have a real interest in what we\'re doing, and I\'d love to arrange a call.",1,0,0,2025-03-27 12:39:42
+271,12793,company,"My only concern about this specific role, is that the main focus is going to be * - however, you might be the perfect person for the role - OR there might be..",1,0,0,2025-03-27 12:40:43
+272,12793,company,other positions we\'re looking to fill that are more tailored to your specific skill set. It\'s going to take a whole variety of skills to pull this off.,1,0,0,2025-03-27 12:41:15
+274,12793,company,"Can I come back to you, to to book in an informal first chat, at some point next week please?",1,0,0,2025-03-27 12:41:42
+278,12793,candidate,"Hey *. Absolutely, that sounds perfect to me. I\'m currently working * from roughly * and I\'m based out in our restaurants a lot of the day, however, I do have some time...",1,0,0,2025-03-27 12:59:05
+279,12793,candidate,* next week if either of those days work for you? Really look forward to catching up with you!,1,0,0,2025-03-27 12:59:37
+280,12794,candidate,Sure! I\'m an * working in hospitality * for the last * years. I\'ve already got great relationships with many of the operators and suppliers working with *.,1,0,0,2025-03-27 14:06:14
+281,12794,candidate,"As your first * hire, I know you\'re looking for a driving force who takes ownership. I\'ve worked my way up from a * to leading the dept, with * promotions in *.",1,0,0,2025-03-27 14:06:59
+282,12794,candidate,"Since leading my team, I\'ve consistently posted great * , including * and *. I\'ve always taken a * role to stay close to what clients really want and lead by example.",1,0,0,2025-03-27 14:07:35
+283,12794,candidate,"I\'ve been named on numerous client testimonials and success stories, showing I genuinely care about my work and help clients fall in love with a platform.",1,0,0,2025-03-27 14:08:29
+286,12794,candidate,I\'m a go-to person in my current team to remove hurdles in internal processes and getting clients live. I\'ve made onboarding lean and established a solid baseline for client success.,1,0,0,2025-03-27 14:11:21
+287,12794,candidate,"To add to all of the above, I\'m really enamoured by what you guys are building with * and LOVE to work with products I truly believe in.",1,0,0,2025-03-27 14:13:11
+288,12794,candidate,The traction you already have is testiment to how good your product market fit is. I\'m really keen on joining at ground level to be part of *\'s very bright future.,1,0,0,2025-03-27 14:13:26
+290,12794,company,Sweet Potato Gnocchi - that is quite some track record!,1,0,0,2025-03-27 14:22:24
+291,12794,company,"Thank you so much for sharing all of this, it sounds like you\'ve found a career that you\'re passionate about and that so wonderful to hear.",1,0,0,2025-03-27 14:23:12
+292,12794,company,"It sounds like it would be well worth a conversation, given your experience in this space and your results so far. Before you reveal your identity and we look to progress to an informal interview -",1,0,0,2025-03-27 14:24:07
+293,12794,company,"- is there anything at all that you want to ask, or need to know, to make sure this is a role you\'d definitely like to be considered for?",1,0,0,2025-03-27 14:24:32
+295,12813,candidate,"Hello! I am so excited to have been matched with this job, as I am so impressed with the service you’re offering!",1,0,0,2025-03-27 14:44:12
+296,12813,candidate,"I would love to learn more about the role - from my understanding, there isn’t currently a * at *",1,0,0,2025-03-27 14:45:05
+297,12813,candidate,"This is an exciting opportunity and I believe I am a good match not only because I love the mission, but because I have experience in building a * team at my current role",1,0,0,2025-03-27 14:46:14
+298,12813,candidate,What I am curious to find out is - what would you say is the one skill that is key to being successful in this role?,1,0,0,2025-03-27 14:46:50
+299,12813,company,"Hey Mac & Cheese Balls, what a fantastic choice of Candid Name!",1,0,0,2025-03-27 14:58:58
+300,12813,company,"You\'re understanding is spot on - we\'re right at the beginning of our journey. Just *, and now we\'re looking to start building our team - all very exciting.",1,0,0,2025-03-27 14:59:54
+301,12813,company,"So you would (if we end up working together) indeed be the founding * , and the person we look to, to grow the team.",1,0,0,2025-03-27 15:00:22
+302,12813,company,The one skill at this stage is probably say is needed is resilience (and curiosity!),1,0,0,2025-03-27 15:01:14
+303,12813,company,"We\'re bringing somethign totally new to the sector, and there\'s going to be a lot of evolution within the platform, which will come with growing pains, and a lot to explain to our customers",1,0,0,2025-03-27 15:01:39
+304,12813,company,"and for whom. So our * lead will be responsible for being out eyes and ears as customers feedback on their experiences, victories and frustrations.",1,0,0,2025-03-27 15:02:45
+305,12813,candidate,Thank you - I am partial to good mac & cheese!,1,0,0,2025-03-27 15:03:30
+306,12813,candidate,"I appreciate your responses - I have worked for a *, so I know all (or most) about the pains, especially when you’re trying to disrupt such a market which hasn’t changed all that much in years",1,0,0,2025-03-27 15:04:51
+307,12813,candidate,"I’ve been on the lookout for a new challenge, waiting for the right place to come along. I can see that the role is remote - do you plan on meeting up in person in the future?",1,0,0,2025-03-27 15:06:33
+308,12813,candidate,"Whereas I do like working in my own space, I would love the opportunity to meet everyone face to face (potentially :))",1,0,0,2025-03-27 15:07:13
+309,12813,company,"Absolutely, we try to cross paths at industry events as often as possible - and of course we\'d love to do sections of the onboarding f2f as much as possible",1,0,0,2025-03-27 15:09:06
+310,12813,company,As *we\'re both based in * (opposite sides) but are often in * and other major cities dependant on events.,1,0,0,2025-03-27 15:09:44
+311,12813,company,Great that you\'ve worked for a startup before.,1,0,0,2025-03-27 15:09:55
+312,12813,company,"is there anything in particular that you\'d want to know about this role, before considering putting yourself forward for an informal interview? Your experience certainly seems suitable.",1,0,0,2025-03-27 15:10:28
+313,12813,candidate,That sounds lovely :),1,0,0,2025-03-27 15:12:13
+314,12813,candidate,I would love to put myself forward and discuss this further. Is now my time to reveal myself as a human and not an actual Mac & cheese ball?,1,0,0,2025-03-27 15:13:08
+315,12813,company,hahaha - this had made my day!,1,0,0,2025-03-27 15:14:52
+316,12813,company,"It\'s all new to us too, but yes, absolutely if you\'re happy to reveal your identify, then we can arrange an informal video call next week for sure. That would be great.",1,0,0,2025-03-27 15:15:23
+317,12817,company,Hello!,1,0,0,2025-03-27 15:16:50
+318,12817,company,"I must say, that is a fantastic \'nom-nom de plume\' you have chosen.",1,0,0,2025-03-27 15:17:13
+319,12813,candidate,"I've just revealed who I am in the Room, I am *, a * at .",1,0,1,2025-03-27 15:17:27
+320,12817,candidate,Hello! I\'d lo ve to chat more about this role and what the plan is for * going forward!,1,0,0,2025-03-27 15:17:55
+321,12813,candidate,That felt like the moment when someone is banished at The Traitors and they have to reveal if they’re a faithful or a traitor…,1,0,0,2025-03-27 15:18:20
+322,12817,candidate,"Thank you! It really combines my two loves, food and horror!",1,0,0,2025-03-27 15:18:25
+323,12813,candidate,Lovely to e-meet you officially!,1,0,0,2025-03-27 15:18:31
+324,12817,candidate,"I've just revealed who I am in the Room, I am * , a * at *.",1,0,1,2025-03-27 15:18:47
+325,12817,company,"I thought it must have been you, but didn\'t want to assume and put some other poor soul / horror fan on the spot.",1,0,0,2025-03-27 15:19:23
+326,12817,company,"Ok, amazing - I\'m delighted that this has worked (mostly) as intended - hopefully it\'s given you a good idea of the basics that candidates will be going through when matching with roles & applying",1,0,0,2025-03-27 15:20:01
+327,12817,candidate,Yes indeed,1,0,0,2025-03-27 15:20:18
+328,12813,candidate,Do let me know if you need my email/phone number - I’m not entirely sure if you can see these on my profile.,1,0,0,2025-03-27 15:20:23
+329,12817,company,"Any immediate feedback on */ thoughts on *? (please don\'t feel a need to sugar coat anything, we know there\'s plenty that want to be upgraded)",1,0,0,2025-03-27 15:21:41
+330,12817,candidate,"Sure! First big tick for me is that I was able to enter my full name with both apostrophe and hyphen, not always a given!",1,0,0,2025-03-27 15:23:08
+331,12813,company,It does all feel a bit like the traitors doesn\'t it!,1,0,0,2025-03-27 15:25:09
+332,12813,company,"Lovely to e-meet you *, thanks so much for putting yourself forward to this role",1,0,0,2025-03-27 15:25:32
+333,12813,company,I\'d love to arrange a chat - I can grab all of your contact details now that you\'ve revealed you are indeed a faithful,1,0,0,2025-03-27 15:26:32
+334,12813,company,"If you\'re ok to give us 24 hours, I\'ll take you details down, and tomorrow we can arrange a slot for next week to have a proper chat. if that\'s ok with you?",1,0,0,2025-03-27 15:27:08
+335,12817,company,we aim to please!,1,0,0,2025-03-27 15:27:24
+336,12813,candidate,"All fine by me - can I just send you my other email, as I created two profiles on here to play around with the platform and learn a bit more?",1,0,0,2025-03-27 15:28:01
+337,12817,company,"Ok, well given that in reality we have already spoken a little bit outside of Candid - I appreciate that this has been a little bit of pantomime for pantomimes sake... but I can\'t tell you how much",1,0,0,2025-03-27 15:28:12
+338,12813,candidate,My email is *@hotmail.com and my phone number is the one in my profile.,1,0,0,2025-03-27 15:28:21
+339,12817,candidate,love a panto tbf,1,0,0,2025-03-27 15:28:34
+340,12817,company,"I appreciate you taking it for a spin. Would you be interested to arrange a more traditional, video call next week to talk about the role in a bit more detail?",1,0,0,2025-03-27 15:28:41
+341,12817,candidate,"If you like, I can write out a doc with some thoughts?",1,0,0,2025-03-27 15:28:49
+342,12813,candidate,Look forward to organising a time and speaking with you in more detail next week!,1,0,0,2025-03-27 15:29:05
+343,12817,company,That would be amazing to be fair,1,0,0,2025-03-27 15:29:05
+344,12817,candidate,"Yes, I\'m available next week!",1,0,0,2025-03-27 15:29:11
+345,12817,company,my email is *  if you want to fire anything over. And just let me know which days / time work best for you - we can book something in.,1,0,0,2025-03-27 15:29:36
+346,12817,candidate,I\'m not working at the moment so let me know what works for you(apart from doing bits for my husband\'s business but he\'s a pretty easy going boss),1,0,0,2025-03-27 15:30:30
+347,12817,candidate,I can pretty much do whenever,1,0,0,2025-03-27 15:30:55
+348,12817,company,"ok tremendous - I\'ll send over an invite, and feel free to move it around if need be. Will be tomorrow before I share. Really looking forward to hearing your thoughts.",1,0,0,2025-03-27 15:32:14
+349,12817,candidate,Great. I\'m just off to walk my dogs then I\'ll pop something over,1,0,0,2025-03-27 15:32:58
+351,12794,candidate,"Thank you! Really appreciate the feedback and would love to have a conversation/interview. I don\'t really have any specific questions at this stage, but do have a few lined up if we progress.",1,0,0,2025-03-27 16:14:05
+352,12794,candidate,"I've just revealed who I am in the Room, I am *, a * at *.",1,0,1,2025-03-27 16:14:37
+360,12852,candidate,"I've just revealed who I am in the Room, I am * , a * at *.",1,0,1,2025-03-27 19:04:25
+373,13204,candidate,"I've just revealed who I am in the Room, I am *, a * at *.",1,0,1,2025-03-28 04:48:13
+374,13204,candidate,"Hey, love the look of what you do so I’d love to discuss the role further if you think I could be a good fit for the team?",1,0,0,2025-03-28 04:48:29
+395,12794,company,Oh hey * - very exciting that it\'s yourslef.,1,0,0,2025-03-28 16:48:58
+396,12794,company,* here from */ * & *.,1,0,0,2025-03-28 16:49:15
+397,12794,company,"On monday, we\'ll be arranging interviews with people so I would love to include you in that. I\'ll be back in touch after the weekend to arrange some times. Hope you have a good one - speak soon",1,0,0,2025-03-28 16:49:43
+403,12794,candidate,Hey *! Really excited about this match and the opportunity to finally work together! Heard great things from * and *,1,0,0,2025-03-28 17:54:19
+404,12794,candidate,Look forward to setting up an interview next week. Hope you and the family have a good one too,1,0,0,2025-03-28 17:56:30
+416,13235,candidate,"hiya, hope you\'re well :) your venue seems absolutely amazing and like a wonderful place to work in. i already feel like i could easily fit in with your team but would love to find out more :) - *.",1,0,0,2025-03-29 15:44:06
+417,13235,candidate,"I've just revealed who I am in the Room, I am * , a * at *.",1,0,1,2025-03-29 15:44:24
+428,13235,company,"Good Morning *, that\'s great to hear - could we have a telephone call his week to discuss the role we have further please?",1,0,0,2025-03-31 08:50:09
+429,13235,company,"Let me know best contact details and I am happy to catch up at a time that suits you. Thanks, *",1,0,0,2025-03-31 08:50:43
+436,13204,company,"Hi *,",1,0,0,2025-03-31 13:08:20
+437,13204,company,Thanks for your interest in this position. It\'d be great to discuss this in more detail with you. Do you have any specific questions about the role at this stage?,1,0,0,2025-03-31 13:09:49
+448,179,company,"Hey, excited to have matched! Are you actively looking? We\'re looking to make a decision on this position in the next week or so, so would love to find out more about what you\'re looking for!",1,0,0,2025-04-01 07:06:46
+514,12731,company,"Hello, hope you\'re well. Do you have any questions about this role? would be good to understand a little bit about your experience and then we can see if there\'s a match",1,0,0,2025-04-02 06:43:19
+515,179,company,"Hi, just following up to see whether still interested in chatting?",1,0,0,2025-04-02 06:56:10
+707,136,company,Hey there *,1,0,0,2025-04-07 10:58:45
+708,136,company,Sorry i have not reached out already,1,0,0,2025-04-07 10:59:05
+709,136,company,I’ve been a bit slow to this Candid thing,1,0,0,2025-04-07 10:59:24
+710,136,company,But its pretty amazing!!!,1,0,0,2025-04-07 10:59:33
+711,136,company,What was it about our post that tweaked your interest?,1,0,0,2025-04-07 10:59:53
+845,319,company,Hello,1,0,0,2025-04-08 13:24:59
+846,319,company,Sorry I am a little late to this candid thing,1,0,0,2025-04-08 13:25:08
+847,319,company,If you are still looking for a role,1,0,0,2025-04-08 13:25:14
+848,319,company,let me know,1,0,0,2025-04-08 13:25:17
+849,319,company,thanks,1,0,0,2025-04-08 13:25:18
+885,319,candidate,"Hi there! Yes, till getting to understand it myself! I am still interested in the role!",1,0,0,2025-04-08 15:18:27
+898,319,candidate,"I've just revealed who I am in the Room, I am *, a * at .",1,0,1,2025-04-08 16:28:41
+920,319,company,Hey *,1,0,0,2025-04-09 10:25:24
+921,319,company,Would you be free for a quick chat today after 4.30?,1,0,0,2025-04-09 10:25:40
+922,319,company,or tomorrow?,1,0,0,2025-04-09 10:26:00
+923,319,company,feel free to drop me an email,1,0,0,2025-04-09 10:26:06
+924,319,company,*,1,0,0,2025-04-09 10:26:14
+993,12678,company,"Hi,",1,1,0,2025-04-13 20:32:47
+994,12678,company,Thank you for your interest in this role is there any information you would like to know more about us?,1,1,0,2025-04-13 20:33:37
+2085,12852,candidate,g\'day,1,0,0,2025-05-28 12:20:19
+2506,13204,candidate,"Hey * team, apologies for the late response…very late response. My * interface wasn’t working on my iPhone 11…I’m the old school type…are you still keen to talk?",1,0,0,2025-06-05 20:18:42
+2543,13204,candidate,"Afternoon, any update for me?",1,0,0,2025-06-09 11:15:47
+2720,13204,company,"Hi *, apologies for the also very late response back. This position is still open and we\'d like to arrange an initial Teams call (just an informal chat) to see what it is you\'re looking for, tell you more about the role etc. Are you still searching and available this Wednesday at all?",1,0,0,2025-06-16 13:10:55
+2782,13204,candidate,"Good afternoon, great herring from you and an initial call sounds great. I’m fully booked Wednesday yet will be able to move my 9am so would 9am work? My email address is *@gmail.com 🙏",1,0,0,2025-06-17 12:01:13
+2797,13204,company,"Hi * , happy to do 9am if you get around to reading this now. Alternatively, does a quick 15 minute chat on Friday work for you at all?",1,0,0,2025-06-17 17:10:54
+2899,13204,candidate,"Hey, sorry for missing this I only got a chat notification. 20 minutes ago.",1,0,0,2025-06-20 13:22:34
+2900,13204,candidate,I can’t do today I’m,1,0,0,2025-06-20 13:22:55
+2901,13204,candidate,Back,1,0,0,2025-06-20 13:22:58
+2902,13204,candidate,To back in meetings. Can we do 4pm on Monday l?,1,0,0,2025-06-20 13:23:43
+2930,13204,company,"Hi *. Sorry I\'m unable to do that time, how is your schedule looking tomorrow afternoon?",1,0,0,2025-06-23 12:04:54
+3017,13204,candidate,"Hey, can you manage next Monday at 1pm?",1,0,0,2025-06-25 09:54:24
+3020,13204,company,"1pm on Monday works. I\'ll send across an invite shortly. As mentioned, just a 15 informal chat",1,0,0,2025-06-25 10:17:35
+3082,13204,candidate,Fantastic sounds good! my email address is:,1,0,0,2025-06-27 10:27:26
+3083,13204,candidate,*@gmail.com,1,0,0,2025-06-27 10:27:28
