@@ -29,6 +29,6 @@ The focus of this project was cleaning and preparing the data for analysis, befo
 - **matches_snippet.csv** – Matches between jobs and users with various scoring metrics (`score_overall`, `score_culture`, `score_competencies`, `score_compensation`, `score_benefits`) and status flags (`liked`, `disliked`, `progressed`, `rejected`).
 - **chats_snippet.csv** – Sample chat data used for analysis
 
-**Disclaimer**: Datasets are intended for demonstration and testing use only, and are not representative of the actual candiate pool at **Candid Hospitality**.
+**Disclaimer**: Datasets are snippets intended for demonstration and testing use only, and are not representative of the actual candiate pool at **Candid Hospitality**.
 
 
