@@ -31,4 +31,11 @@ The focus of this project was cleaning and preparing the data for analysis, befo
 
 **Disclaimer**: Datasets are snippets intended for demonstration and testing use only, and are not representative of the actual candiate pool at **Candid Hospitality**.
 
+## Clustering
+
+A collection of scripts and data to implement my proposed k-means clustering algorithmn to group users based on characteristics (personality, age, salary, location, department). Once implemented this will allow us to improve the reccomendation system. 
+
+-**pre_processing_functions** Collection of functions & master function used to put the transform the data into a form suitable for clustering.<br>
+Dependencies: numpy, pandas
+
 
