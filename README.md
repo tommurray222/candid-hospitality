@@ -33,9 +33,9 @@ The focus of this project was cleaning and preparing the data for analysis, befo
 
 ## Clustering
 
-A collection of scripts and data to implement my proposed k-means clustering algorithmn to group users based on characteristics (personality, age, salary, location, department). Once implemented this will allow us to improve the reccomendation system. 
+A collection of scripts and data to implement my proposed k-means clustering algorithm to group users based on characteristics (personality, age, salary, location, department). Once implemented this will allow us to improve the recommendation system by using cluster based reccomendation to suggest additional matches. 
 
--**pre_processing_functions** Collection of functions & master function used to put the transform the data into a form suitable for clustering.<br>
+- **pre_processing_functions** Collection of functions & master function used to put the transform the data into a form suitable for clustering.<br>
 Dependencies: numpy, pandas
 
 
